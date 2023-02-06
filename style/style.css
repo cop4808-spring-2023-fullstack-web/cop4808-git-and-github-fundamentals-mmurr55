@@ -108,3 +108,27 @@ button {
 .percent:active {
     background-color: rgb(123, 189, 255);
 }
+
+.sqrt {
+    background-color: #FF8F1F;
+}
+
+.sqrt:active {
+    background-color: #ffc183;
+}
+
+.logOfX {
+    background-color: #FF8F1F;
+}
+
+.logOfX:active {
+    background-color: #ffc183;
+}
+
+.ln {
+    background-color: #FF8F1F;
+}
+
+.ln:active {
+    background-color: #ffc183;
+}
