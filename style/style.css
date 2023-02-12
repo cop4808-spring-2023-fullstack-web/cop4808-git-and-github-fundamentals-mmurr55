@@ -117,19 +117,19 @@ button {
     background-color: #ffc183;
 }
 
-.logOfX {
+.log {
     background-color: #FF8F1F;
 }
 
-.logOfX:active {
+.log:active {
     background-color: #ffc183;
 }
 
-.ln {
+.squared {
     background-color: #FF8F1F;
 }
 
-.ln:active {
+.squared:active {
     background-color: #ffc183;
 }
 
