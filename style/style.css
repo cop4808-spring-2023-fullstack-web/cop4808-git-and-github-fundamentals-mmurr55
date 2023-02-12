@@ -110,33 +110,33 @@ button {
 }
 
 .sqrt {
-    background-color: #FF8F1F;
+    background-color: #662005;
 }
 
 .sqrt:active {
-    background-color: #ffc183;
+    background-color: #bd0d07;
 }
 
 .log {
-    background-color: #FF8F1F;
+    background-color: #662005;
 }
 
 .log:active {
-    background-color: #ffc183;
+    background-color: #bd0d07;
 }
 
 .squared {
-    background-color: #FF8F1F;
+    background-color: #662005;
 }
 
 .squared:active {
-    background-color: #ffc183;
+    background-color: #bd0d07;
 }
 
 .pi {
-    background-color: #FF8F1F;
+    background-color: #662005;
 }
 
 .pi:active {
-    background-color: #ffc183;
+    background-color: #bd0d07;
 }
